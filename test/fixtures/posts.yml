@@ -1,0 +1,10 @@
+# Read about fixtures at
+# http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  title: Today was really bad.
+  body: I really didn't like today for the fact that it was just very bad.
+
+two:
+  title: MyString
+  body: MyText
